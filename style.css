@@ -1,0 +1,30 @@
+table{ 
+    border: 2px solid red;
+    background-color: brown;
+    width: auto;
+    length: auto;
+    height: auto;
+    margin: auto;
+    
+}
+h1{
+    color: brown;
+}
+.table{
+    background-color: green;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+tr{
+    text-align: center;
+    background-color: bisque;
+}
+.line{
+    background: rgb(27, 224, 228);
+    background: linear-gradient(20deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+.RED{
+    background-color: rgba(255, 0, 0, 0.644) ;
+}
